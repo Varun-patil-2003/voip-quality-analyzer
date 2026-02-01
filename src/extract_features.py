@@ -11,6 +11,3 @@ def extract_features(file_path):
         'spectral_centroid': np.mean(librosa.feature.spectral_centroid(y=y, sr=sr)),
     }
     return features
-
-def sumAll():
-    return 2 + 2
