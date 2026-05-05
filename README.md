@@ -1,4 +1,4 @@
-# VoIP Quality Analyzer with Machine Learning 📞🎧
+# VoIP Quality Analyzer with Machine Learning
 
 An intelligent, data-driven network analysis tool that leverages Machine Learning to predict and analyze Voice over IP (VoIP) call quality. By monitoring and evaluating critical network performance metrics—such as jitter, latency, and packet loss—this application classifies call quality, calculates an estimated Mean Opinion Score (MOS), and provides actionable network optimization insights.
 
