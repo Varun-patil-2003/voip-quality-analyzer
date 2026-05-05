@@ -13,15 +13,6 @@ An intelligent, data-driven network analysis tool that leverages Machine Learnin
 
 ---
 
-## Technology Stack
-
-- **Language:** Python 3.8+
-- **Machine Learning & Data Science:** Scikit-Learn, Pandas, NumPy
-- **Data Visualization:** Matplotlib, Seaborn
-- **Development Tooling:** Git, Jupyter Notebooks (if applicable)
-
----
-
 ## Project Workflow
 
 The application operates through a structured pipeline:
