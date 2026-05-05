@@ -66,8 +66,12 @@ On Windows:
 ``` venv\Scripts\activate ```
 
 On macOS/Linux:
-``` python3 -m venv venv ```
-``` source venv/bin/activate ```
+```
+python3 -m venv venv
+```
+```
+source venv/bin/activate
+```
 
 #### Install Dependencies:
 Ensure you have all the required libraries installed:
