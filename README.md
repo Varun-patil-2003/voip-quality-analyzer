@@ -99,7 +99,9 @@ python train.py
 
 2. Running Predictions
 To run the analyzer tool and evaluate test data:
-``` python main.py ```
+```
+python main.py
+```
 
 ### Future Enhancements
 Real-Time Packet Capture: Integrate direct network packet sniffing using libraries like Scapy or PyShark to analyze active network interfaces.
