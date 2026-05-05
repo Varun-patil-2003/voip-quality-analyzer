@@ -136,3 +136,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 ---
 
 [Click here to run application](https://varun-patil-2003-voip-quality-analyzer-appstreamlit-ui-hhms5h.streamlit.app/)
+
+![Demo WAV file score](image.png)
