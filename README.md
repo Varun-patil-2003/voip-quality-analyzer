@@ -53,17 +53,27 @@ Follow these instructions to set up and run the project locally.
 
 ### Prerequisites
 Make sure you have Python 3.8 or higher installed. You can check your version by running:
-``` python --version ```
+```
+python --version
+```
 
 ### Installation Steps
 #### Clone the Repository:
-``` git clone [https://github.com/Varun-patil-2003/voip-quality-analyzer.git](https://github.com/Varun-patil-2003/voip-quality-analyzer.git) ```
-``` cd voip-quality-analyzer ```
+```
+git clone [https://github.com/Varun-patil-2003/voip-quality-analyzer.git](https://github.com/Varun-patil-2003/voip-quality-analyzer.git)
+```
+```
+cd voip-quality-analyzer
+```
 
 #### Create a Virtual Environment (Recommended):
 On Windows:
-``` python -m venv venv ``` 
-``` venv\Scripts\activate ```
+```
+python -m venv venv
+``` 
+```
+venv\Scripts\activate
+```
 
 On macOS/Linux:
 ```
@@ -75,7 +85,9 @@ source venv/bin/activate
 
 #### Install Dependencies:
 Ensure you have all the required libraries installed:
-``` pip install -r requirements.txt ```
+```
+pip install -r requirements.txt
+```
 
 ### How to Run
 1. Training the Model
